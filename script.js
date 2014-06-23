@@ -10,7 +10,7 @@ for (var i = 0; i < len; i++) {
 	pos = Math.floor((Math.random() * total));
 	team_A.push(players[pos]);
 	players.splice(pos, 1);
-	total = total - 1;
+	total--;
 }
 
 team_B = players;
