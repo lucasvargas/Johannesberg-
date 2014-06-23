@@ -1,4 +1,4 @@
-Johannesberg-
+Johannesburg-
 =============
 
-Algoritmo de johannesberg
+Algoritmo de johannesburg
