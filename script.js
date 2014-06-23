@@ -1,10 +1,10 @@
 function create(){
 
-var players = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
-var team_A = [];
-var team_B = [];
-var len = 5;
-var total = players.length;
+var players = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+    team_A = [],
+    team_B = [],
+    len = 5,
+    total = players.length;
 
 for (var i = 0; i < len; i++) {
 	pos = Math.floor((Math.random() * total));
